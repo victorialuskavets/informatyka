@@ -40,11 +40,6 @@ def handle_votes(votes, blocks, chain):
 def create_chain(blocks, votes):
     chain = []
     
-    for block in blocks:
-        block['view'] = int(block['view'])  
-        if block['view'] == 0:
-            chain.append(block)
-            break
     
     print(f"Initial chain with view 0: {chain}")  
     
