@@ -1,6 +1,6 @@
 # Project Name
 
-This project is designed to [describe project purpose].
+This project is designed to Luskavets.
 
 ## Project Structure
 
