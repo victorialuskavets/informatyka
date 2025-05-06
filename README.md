@@ -6,14 +6,10 @@ This project is designed to Luskavets.
 
 The project is structured as follows:
 
-<<<<<<< HEAD
-=======
-
 - `/src` - contains the source code files.
 - `/docs` - contains the project documentation.
 - `/tests` - contains unit tests for the project.
 - `requirements.txt` - lists dependencies required for the project.
-
 
 ## Project Flowchart
 
@@ -24,6 +20,4 @@ flowchart TD
     C --> D[Generate Output];
     D --> E[Test Code];
     E --> F[Finish];
-=======
-- ## Project Flowchart
 
